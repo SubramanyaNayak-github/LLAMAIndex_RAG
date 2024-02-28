@@ -1,0 +1,9 @@
+llama-index
+openai
+pypdf
+python-dotenv
+ipykernel
+google-generativeai
+llama-index-llms-palm
+langchain
+llama-index-embeddings-langchain
